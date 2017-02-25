@@ -1,0 +1,17 @@
+{
+  "name": "nightmare-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nightmare": "^2.10.0",
+    "nightmare-download-manager": "^0.2.4",
+    "nightmare-inline-download": "^0.2.2",
+    "nightmare-screenshot": "^1.0.0"
+  }
+}
